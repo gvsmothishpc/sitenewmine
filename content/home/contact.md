@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: gvsmothish@gmail.com
+  phone: +91-9959793510
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: old Bustand
+    city: Nellore
+    region: Andhra Pradesh
+    postcode: '524315'
+    country: INDIA
+    country_code: IND
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
